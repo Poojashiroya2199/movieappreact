@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.title {
+  color: blue;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.red {
+  color: red;
+}
+.movie {
+  background-color: lightpink;
+  width: 35%;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
